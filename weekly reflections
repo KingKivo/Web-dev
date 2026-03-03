@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>Weekly Reflections</title>
+    </head>
+
+    <body>
+        <header>
+            <h1>Weekly reflections</h1>
+            <br>
+            <h2>Week1</h2>
+            <p>In week 1 we did not do a lot of work persay as it was mainly an introductory session to html and css as a concept. We did write some brief code and essentially how we can format our weekly reflections</p>
+
+            <h2>Week 2</h2>
+            <p>In week 2 we covered a couple of things. Mainly covered a basic structure of a html5 document and how to format it. How to correctly identify and use tags. And then did the same for css also.</p>
+
+            <h2>Week 3</h2>
+        </header>
+    </body>
+</html>
