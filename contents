@@ -2,12 +2,14 @@
     <head>
         <title>Contents</title>
     </head>
+    
     <body>
         <main>
             <nav>
                 <ul>
                     <li><a href="Reflections.html">Reflections</a></li>
                     <li><a href="MyCV.html">CV</a></li>
+                    <li><a href="Home.html">Home</a></li>
                 </ul>
             </nav>
         </main>
