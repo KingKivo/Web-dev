@@ -69,6 +69,67 @@ footer {
 
 /*contact stuff */
 
+
+.contact_header{
+  padding: 100px;
+  margin: 20px;
+  background-image: url("bold_brash.webp"); 
+  background-size: cover;
+  background-position: 10% 37%;
+  background-color: rgba(0,0,0,0.55);
+  background-blend-mode: overlay;
+}
+
+.contact_title{
+  color: #EDEADE;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.contact_text{ 
+  color: #EDEADE;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.contact-forms {
+  padding: 60px;
+  border-radius: 12px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 12px 15px;
+  border-radius: 8px;
+  font-size: 16px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+button.submit {
+  padding: 12px 25px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #EDEADE;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color;
+}
+
+button.submit:hover {
+  background-color: #1a1a6e;
+}
+
 /* cv stuff */
 .cv-header{
   padding: 100px;
@@ -138,7 +199,37 @@ footer {
   padding: 100px;
 }
 
+/* reflections*/
 
+.reflections_header{
+  padding: 100px;
+  margin: 20px;
+  background-image: url("bold_brash.webp"); 
+  background-size: cover;
+  background-position: 10% 37%;
+  background-color: rgba(0,0,0,0.55);
+  background-blend-mode: overlay;
+}
+
+.reflections_title{
+  color: #EDEADE;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.reflections_text{ 
+  color: #EDEADE;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.reflections_texts{
+  padding: 100px;
+}
 
 /* nav bar stuff */
 nav a {
